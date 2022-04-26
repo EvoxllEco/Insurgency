@@ -1,0 +1,1 @@
+./Insurgency/Binaries/Linux/InsurgencyServer-Linux-Shipping $strMap?port=27102?queryport=27131?MaxPlayers=20?game=$strGameMode -mutators=Hardcore,FastMovement -LogCmds="LogGameplayEvents Log" -log -AdminList=Admins -MapCycle=MapCycle -GameStats -GSLTToken=XXXXXXXXXXXXXXXXXXXXXXXX -EnableCheats -NoEAC -Mods ModList=Mods.txt
