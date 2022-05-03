@@ -1,0 +1,8 @@
+(Scenario="Scenario_Farmhouse_Survival_Security",Mode="SurvivalHardcore",Lighting="Day")
+(Scenario="Scenario_Hideout_Survival_Security",Mode="SurvivalHardcore",Lighting="Day")
+(Scenario="Scenario_Precinct_Survival_Security",Mode="SurvivalHardcore",Lighting="Day")
+(Scenario="Scenario_Summit_Survival_Security",Mode="SurvivalHardcore",Lighting="Day")
+(Scenario="Scenario_Outskirts_Survival_Security",Mode="SurvivalHardcore",Lighting="Day")
+(Scenario="Scenario_Hillside_Survival_Security",Mode="SurvivalHardcore",Lighting="Day")
+(Scenario="Scenario_PowerPlant_Survival_Security",Mode="SurvivalHardcore",Lighting="Day")
+(Scenario="Scenario_Hillside_Survival_Security",Mode="SurvivalHardcore",Lighting="Day")
