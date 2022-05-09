@@ -1,2 +1,3 @@
 (Scenario="Scenario_TORO_Checkpoint_Security",Lighting="Day",Mode="CheckpointHardcore")
 (Scenario="Scenario_Highlands_Checkpoint_Security",Lighting="Day",Mode="CheckpointHardcore")
+(Scenario="Scenario_Coastline_Checkpoint_Security",Lighting="Day",Mode="CheckpointHardcore")
