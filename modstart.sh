@@ -1,0 +1,1 @@
+Insurgency/Binaries/Linux/InsurgencyServer-Linux-Shipping TORO?Scenario=Scenario_TORO_Checkpoint_Security?Mode=CheckpointHardcore?MaxPlayers=6 -Mods -Modlist=Mods.txt -GameStatsToken=(TokenHere) -Port=27102 -QueryPort=27131 -log -MapCycle=OtherMapCycle -AdminList=Admins -mutators=AllYouCanEat,Hardcore -hostname="=[ AWSM ]= Survival | Hardcore | COOP | DE"
