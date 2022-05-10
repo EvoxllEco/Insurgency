@@ -3,3 +3,5 @@
 (Scenario="Scenario_Coastline_Checkpoint_Security",Lighting="Day",Mode="CheckpointHardcore")
 (Scenario="Scenario_Sheds_Checkpoint_Security",Lighting="Day",Mode="CheckpointHardcore")
 (Scenario="Scenario_Macedonia_Checkpoint_Security",Lighting="Day",Mode="CheckpointHardcore")
+(Scenario="Scenario_Noshahr_Canals_Checkpoint_Security",Lighting="Day",Mode="CheckpointHardcore")
+(Scenario="Scenario_LastLight_Checkpoint_Security",Lighting="Day",Mode="CheckpointHardcore")
