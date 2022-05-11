@@ -12,4 +12,4 @@
 (Scenario="Scenario_Gap_Checkpoint_Security",Mode="CheckpointHardcore",Lighting="Day")
 (Scenario="Scenario_Tell_Checkpoint_Security",Mode="CheckpointHardcore",Lighting="Day")
 (Scenario="Scenario_Citadel_Checkpoint_Security",Mode="CheckpointHardcore",Lighting="Day")
-
+(Scenario="Scenario_Citadel_Bab_Security",Mode="CheckpointHardcore",Lighting="Day")
